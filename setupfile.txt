@@ -1,0 +1,16 @@
+9
+40
+40
+0.1
+0.02
+5
+
+
+
+
+n:number of velocity direction 
+mx:number of nodes in x direction
+my:number of nodes in x direction
+u0:top wall velocity
+alpha:viscosity
+mstep:number of time step 
